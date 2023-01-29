@@ -12,7 +12,7 @@ Create a new frame.
 Select any one preset size of your choice.
 
 ### Step 3:
-Select the shapes ypu need.
+Select the shapes you need.
 
 ### Step 4:
 Import images as needed.
